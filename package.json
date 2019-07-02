@@ -27,7 +27,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://davidra24.github.io/configuraci-n-servidores",
+  "homepage": "https://davidra24.github.io/configuracion-servidores",
   "browserslist": {
     "production": [
       ">0.2%",
