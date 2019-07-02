@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/configuracion-servidores/static/css/main.4b548a77.chunk.css",
+    "main.js": "/configuracion-servidores/static/js/main.06bb8db5.chunk.js",
+    "main.js.map": "/configuracion-servidores/static/js/main.06bb8db5.chunk.js.map",
+    "runtime~main.js": "/configuracion-servidores/static/js/runtime~main.9c9a2da4.js",
+    "runtime~main.js.map": "/configuracion-servidores/static/js/runtime~main.9c9a2da4.js.map",
+    "static/css/2.266e55a5.chunk.css": "/configuracion-servidores/static/css/2.266e55a5.chunk.css",
+    "static/js/2.4432cb16.chunk.js": "/configuracion-servidores/static/js/2.4432cb16.chunk.js",
+    "static/js/2.4432cb16.chunk.js.map": "/configuracion-servidores/static/js/2.4432cb16.chunk.js.map",
+    "index.html": "/configuracion-servidores/index.html",
+    "precache-manifest.d877608100ab9a5665746a1a1633157e.js": "/configuracion-servidores/precache-manifest.d877608100ab9a5665746a1a1633157e.js",
+    "service-worker.js": "/configuracion-servidores/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/configuracion-servidores/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.4b548a77.chunk.css.map": "/configuracion-servidores/static/css/main.4b548a77.chunk.css.map",
+    "static/media/cinco.PNG": "/configuracion-servidores/static/media/cinco.f0968340.PNG",
+    "static/media/cuatro.PNG": "/configuracion-servidores/static/media/cuatro.98c0d714.PNG",
+    "static/media/dos.PNG": "/configuracion-servidores/static/media/dos.e403f018.PNG",
+    "static/media/linux.png": "/configuracion-servidores/static/media/linux.1f11d300.png",
+    "static/media/nueve.PNG": "/configuracion-servidores/static/media/nueve.babadfcb.PNG",
+    "static/media/ocho.PNG": "/configuracion-servidores/static/media/ocho.ecf7ea33.PNG",
+    "static/media/seis.PNG": "/configuracion-servidores/static/media/seis.fcd012b3.PNG",
+    "static/media/server.png": "/configuracion-servidores/static/media/server.0073b761.png",
+    "static/media/siete.PNG": "/configuracion-servidores/static/media/siete.bb8d365b.PNG",
+    "static/media/tres.PNG": "/configuracion-servidores/static/media/tres.cd1e09f2.PNG",
+    "static/media/uno.PNG": "/configuracion-servidores/static/media/uno.e8272296.PNG",
+    "static/media/windows.png": "/configuracion-servidores/static/media/windows.f257f3e5.png",
+    "static/media/yo.jpg": "/configuracion-servidores/static/media/yo.b72f4bc9.jpg"
+  }
+}
